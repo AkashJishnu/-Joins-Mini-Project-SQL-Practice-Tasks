@@ -84,12 +84,6 @@ Learning to become a Data Analyst 💼
 
 ---
 
-## 📊 Progress Visual
-
-![Progress](progress_chart.png) <!-- Replace with your visual if uploaded -->
-
----
-
 ## 🌟 License
 
 Feel free to fork and practice — contributions and suggestions welcome!
